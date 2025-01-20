@@ -1,4 +1,4 @@
-![1408H Creative Assets Banner](https://raw.githubusercontent.com/1408Hyper/creative-assets/refs/heads/main/logos/final/Creative%20Assets%20Banner%201%20Light%20Only.PNG)
+![1408H Creative Assets Banner](https://raw.githubusercontent.com/1408Hyper/creative-assets/refs/heads/main/logos/final/CreDes/Creative%20Assets%20Banner%201%20Light%20Only.PNG)
 
 # ⚡ 1408Hyper Creative Assets
 
